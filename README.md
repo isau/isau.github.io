@@ -1,7 +1,7 @@
 # isau.github.io
 isau.github.io
 
-##本站<http://isau.github.io/>
+##本站<a href="http://isau.github.io/">isau</a>
 
 感谢<a href="https://github.com/iissnan/hexo-theme-next">iissnan</a>开源主题，很赞；
 
